@@ -37,9 +37,6 @@
   - Mood-aware AI conversations + sentiment analysis
   - Focused on privacy-first AI design
 
----
-
-### 💡 Featured Project:
 - 🔐 **SecuWallet – Biometric Powered Smart Wallet**
   - Designed a smart security solution using biometric concepts
   - Focused on real-world usability and system design
@@ -49,19 +46,19 @@
 ### 🛠️ Tech Stack:
 
 **Languages:**  
-Python | Java | C++ | JavaScript  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />  
 
 **AI / ML:**  
-Scikit-learn | NLP | TF-IDF | BERT | MiniLM | Prompt Engineering  
+`Scikit-learn` | `NLP` | `TF-IDF` | `BERT` | `MiniLM` | `Prompt Engineering`  
 
 **Data Tools:**  
-Pandas | NumPy | Matplotlib  
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" /> `Matplotlib`
 
 **Web & Tools:**  
-HTML | CSS | Streamlit | Git | GitHub | Jupyter  
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter" /> 
 
 **Database:**  
-MySQL  
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />  
 
 ---
 
@@ -90,7 +87,7 @@ MySQL
 
 ### 🌐 Connect with me:
 <p align="left">
-<a href="http://www.linkedin.com/in/nidhi-s-778ns" target="blank">LinkedIn</a>
+<a href="http://www.linkedin.com/in/nidhi-s-778ns" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
