@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm Nidhi 👋</h1>
+<h1 align="center">Hey there, I'm Nidhi 👋</h1>
 
-<h3 align="center">BCA Final Year Student | Python Developer | Machine Learning Enthusiast 🇮🇳</h3>
+<h3 align="center">BCA Final Year Student | Python Developer | AI/ML Enthusiast </h3>
 
 <p align="center">
   <a href="https://github.com/NidhiS-7">
@@ -11,7 +11,7 @@
 ---
 
 ### 🚀 About Me:
-- 🎓 BCA Final Year @ DAVV, Indore  
+- 🎓 BCA Final Year @ SCSIT, Devi Ahilya Vishwavidyalaya, Indore (M.P) 
 - 🧠 Strong interest in **Machine Learning, AI & Data-driven systems**  
 - 💡 Experience with **NLP, LLMs, and real-world AI applications**  
 - 🔍 Built ML models with **Scikit-learn, TF-IDF, Transformer embeddings (MiniLM/BERT)**  
