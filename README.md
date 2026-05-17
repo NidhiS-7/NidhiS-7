@@ -8,7 +8,9 @@
   </a>
 </p>
 
----
+<p>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+</p>
 
 ### About Me:
 - 🎓 BCA Final Year @SCSIT, Devi Ahilya Vishwavidyalaya, Indore (M.P) 
@@ -16,24 +18,9 @@
 - 💡 Experience with **NLP, LLMs, and real-world AI applications**  
 - 🔍 Built ML models with **Scikit-learn, TF-IDF, Transformer embeddings (MiniLM/BERT)**  
 
----
-
-### 🧠 AI / ML Experience:
-- 📰 **Fake News Detection & Verification Tool**
-  - Used **TF-IDF + Transformer embeddings**
-  - Built with **Streamlit for real-time predictions**
-
-- 💙 **MindMate – AI Mental Wellness Companion**
-  - Gen AI Hackathon Project (Google Cloud x Hack2Skill)
-  - Mood-aware AI conversations + sentiment analysis
-
-- 🔐 **SecuWallet – Biometric Powered Smart Wallet**
-  - Designed a smart security solution using biometric concepts
-  - Focused on real-world usability and system design
-
-  and many more...
-
----
+<p>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+</p>
 
 ### 🛠️ Tech Stack:
 
@@ -52,7 +39,9 @@
 **Database:**  
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />  
 
----
+<p>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+</p>
 
 ### 📊 GitHub Stats:
 <p align="center">
@@ -70,10 +59,14 @@
 <p align="center">
   <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=NidhiS-7&layout=compact&theme=radical](https://camo.githubusercontent.com/1945ece62aacc49d2771dd52a8b4389e8f524b4571a7509e8ee8feac13151af8/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d3130302673656374696f6e3d666f6f74657226616e696d6174696f6e3d7477696e6b6c696e67267468656d653d6a6f6c6c79)" />
 </p>
----
+
+<p>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+</p>
 
 ### 🌐 Connect with me:
 <p align="left">
 <a href="http://www.linkedin.com/in/nidhi-s-778ns" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+
 
