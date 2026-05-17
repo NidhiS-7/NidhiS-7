@@ -10,36 +10,28 @@
 
 ---
 
-### 🚀 About Me:
-- 🎓 BCA Final Year @ SCSIT, Devi Ahilya Vishwavidyalaya, Indore (M.P) 
+### About Me:
+- 🎓 BCA Final Year @SCSIT, Devi Ahilya Vishwavidyalaya, Indore (M.P) 
 - 🧠 Strong interest in **Machine Learning, AI & Data-driven systems**  
 - 💡 Experience with **NLP, LLMs, and real-world AI applications**  
 - 🔍 Built ML models with **Scikit-learn, TF-IDF, Transformer embeddings (MiniLM/BERT)**  
-- ⚡ Love building **practical + impactful AI projects**
-
----
-
-### 🔭 Current Focus:
-- 🤖 Exploring **LLM-based applications & prompt engineering**
-- 📚 Strengthening **Data Structures & Algorithms**
-- 🌐 Improving **Full Stack Development skills**
 
 ---
 
 ### 🧠 AI / ML Experience:
 - 📰 **Fake News Detection & Verification Tool**
-  - Achieved **87% accuracy**
   - Used **TF-IDF + Transformer embeddings**
   - Built with **Streamlit for real-time predictions**
 
 - 💙 **MindMate – AI Mental Wellness Companion**
   - Gen AI Hackathon Project (Google Cloud x Hack2Skill)
   - Mood-aware AI conversations + sentiment analysis
-  - Focused on privacy-first AI design
 
 - 🔐 **SecuWallet – Biometric Powered Smart Wallet**
   - Designed a smart security solution using biometric concepts
   - Focused on real-world usability and system design
+
+  and many more...
 
 ---
 
@@ -59,14 +51,6 @@
 
 **Database:**  
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />  
-
----
-
-### 🏆 Certifications & Achievements:
-- 🥇 Infosys Springboard – Python Internship  
-- 🧠 IBM SkillsBuild – Prompt Engineering  
-- ☁️ Google Cloud x Hack2Skill – Gen AI Hackathon  
-- 📘 LinkedIn Learning – Generative AI Foundations  
 
 ---
 
@@ -90,6 +74,3 @@
 <a href="http://www.linkedin.com/in/nidhi-s-778ns" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
----
-
-⭐ *"Turning ideas into AI-powered solutions."*
