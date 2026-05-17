@@ -67,6 +67,10 @@
 ### 🌐 Connect with me:
 <p align="left">
 <a href="http://www.linkedin.com/in/nidhi-s-778ns" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://discord.com/users/cherrywine._.">
+  <img src="https://user-images.githubusercontent.com/74038190/221352968-ac6f7b24-ed9a-4d00-a045-710caa6fc834.gif"width=50px height=50px/>
+</a>
 </p>
+
 
 
